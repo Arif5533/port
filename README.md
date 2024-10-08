@@ -12,10 +12,10 @@ Welcome to my portfolio! I am **[Your Name]**, a passionate **[Your Profession/F
 ---
 
 ## 🧑‍🎓 Education
-| Degree | Field of Study | Institution | Year |
-|--------|----------------|-------------|------|
-| **[Degree]** | [Field of Study] | [University Name] | [Year of Graduation] |
-| **[Certification]** | [Field of Study] | [Institution Name] | [Year] |
+| Degree            | Field of Study     | Institution        | Year               |
+|-------------------|--------------------|---------------------|---------------------|
+| **[Degree]**      | [Field of Study]   | [University Name]   | [Year of Graduation] |
+| **[Certification]** | [Field of Study]   | [Institution Name]  | [Year]              |
 
 ---
 
@@ -29,6 +29,7 @@ Welcome to my portfolio! I am **[Your Name]**, a passionate **[Your Profession/F
 ---
 
 ## 💻 Projects
+
 ### Project 1: [Project Title]
 - **Description:** A brief overview of the project, its goals, and technologies used.
 - **Technologies Used:** 
