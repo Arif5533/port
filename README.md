@@ -1,5 +1,3 @@
-# 🌟 Portfolio he
-
 <div align="center">
 
 ![Your Picture](link-to-your-image.jpg)
@@ -12,10 +10,11 @@ Welcome to my portfolio! I am **[Your Name]**, a passionate **[Your Profession/F
 ---
 
 ## 🧑‍🎓 Education
-| Degree            | Field of Study     | Institution        | Year               |
-|-------------------|--------------------|---------------------|---------------------|
-| **[Degree]**      | [Field of Study]   | [University Name]   | [Year of Graduation] |
-| **[Certification]** | [Field of Study]   | [Institution Name]  | [Year]              |
+- **[Degree]** in [Field of Study]  
+  [University Name], [Year of Graduation]
+
+- **[Additional Certifications or Courses]**  
+  [Institution Name], [Year]
 
 ---
 
@@ -29,38 +28,20 @@ Welcome to my portfolio! I am **[Your Name]**, a passionate **[Your Profession/F
 ---
 
 ## 💻 Projects
-
 ### Project 1: [Project Title]
 - **Description:** A brief overview of the project, its goals, and technologies used.
-- **Technologies Used:** 
-  ![Tech Badge](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Tech Badge](https://img.shields.io/badge/React-16.8-blue)  
-- **Links:** [GitHub Repository](https://github.com/username/repo) | [Live Demo](https://yourliveproject.com)
-
----
+- **Technologies:** ![Tech Badge](https://img.shields.io/badge/Tech%20Used-TechnologyName-blue)  
+- **Link:** [GitHub Repository](https://github.com/username/repo) | [Live Demo](https://yourliveproject.com)
 
 ### Project 2: [Project Title]
 - **Description:** A brief overview of the project, its goals, and technologies used.
-- **Technologies Used:** 
-  ![Tech Badge](https://img.shields.io/badge/Python-3.8-blue) ![Tech Badge](https://img.shields.io/badge/Django-3.2-green)  
-- **Links:** [GitHub Repository](https://github.com/username/repo) | [Live Demo](https://yourliveproject.com)
-
----
+- **Technologies:** ![Tech Badge](https://img.shields.io/badge/Tech%20Used-TechnologyName-green)  
+- **Link:** [GitHub Repository](https://github.com/username/repo) | [Live Demo](https://yourliveproject.com)
 
 ### Project 3: [Project Title]
 - **Description:** A brief overview of the project, its goals, and technologies used.
-- **Technologies Used:** 
-  ![Tech Badge](https://img.shields.io/badge/HTML5-orange) ![Tech Badge](https://img.shields.io/badge/CSS3-blue)  
-- **Links:** [GitHub Repository](https://github.com/username/repo) | [Live Demo](https://yourliveproject.com)
-
----
-
-## 🛠️ Skills
-| Language/Technology | Proficiency Level |
-|---------------------|-------------------|
-| JavaScript          | ![Proficiency Badge](https://img.shields.io/badge/Proficient-brightgreen) |
-| Python              | ![Proficiency Badge](https://img.shields.io/badge/Intermediate-yellowgreen) |
-| React               | ![Proficiency Badge](https://img.shields.io/badge/Proficient-brightgreen) |
-| Django              | ![Proficiency Badge](https://img.shields.io/badge/Intermediate-yellowgreen) |
+- **Technologies:** ![Tech Badge](https://img.shields.io/badge/Tech%20Used-TechnologyName-orange)  
+- **Link:** [GitHub Repository](https://github.com/username/repo) | [Live Demo](https://yourliveproject.com)
 
 ---
 
